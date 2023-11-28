@@ -35,6 +35,10 @@ img{
     color: #000;
     text-decoration: none;
 }
+.carrito img{
+    width: 25px;
+    height: auto;
+}
 ul{
     list-style: none;
     margin: 0;
@@ -102,8 +106,24 @@ nav a{
 .producto a:hover{
     background-color: rgb(161, 112, 147);
 }
-footer{
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer_social{
+    margin-top: 10px;
+}
+.icon_text{
     display: flex;
     align-items: center;
-    justify-content: center;
+    margin-bottom: 5px;
+}
+.footer_img{
+    width: 30px;
+    height: auto;
+    margin-right: 10px;
+}
+.span{
+    margin-right: 10px;
 }
