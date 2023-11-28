@@ -103,18 +103,3 @@ nav a{
 .producto a:hover{
     background-color: rgb(161, 112, 147);
 }
-footer{
-    display: flex;
-    justify-content: flex-end;
-}
-footer a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: #000;
-}
-
-
-
-<img src="" alt="">
-<img src="" alt="">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpy7WrwB5AKTBA7kWZYSX50atploH2fT7wlQ&usqp=CAU" alt="">

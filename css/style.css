@@ -7,6 +7,7 @@
 }
 
 body{
+    background-image: url(https://media.enfibras.com/100-large_default/nube-movil.jpg);
     background-color: #976BAC  ;
     font-family: 'Raleway';
 }
@@ -100,4 +101,9 @@ nav a{
 }
 .producto a:hover{
     background-color: rgb(161, 112, 147);
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
